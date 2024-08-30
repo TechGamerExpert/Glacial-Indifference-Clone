@@ -3,8 +3,8 @@
     "name": "Glacial Indifference Clone",
     "previewText": "definition of indifference",
     "main": {
-        "GlacialIndifference-Regular": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Regular.otf",
-        "GlacialIndifference-Italic": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Italic.otf",
-        "GlacialIndifference-Bold": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Bold.otf"
+        "GlacialIndifference-Regular": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Regular.ttf",
+        "GlacialIndifference-Italic": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Italic.ttf",
+        "GlacialIndifference-Bold": "https://github.com/TechGamerExpert/Glacial-Indifference-Clone/raw/main/GlacialIndifference-Bold.ttf"
     }
 }
